@@ -1,7 +1,7 @@
 
 # Projeto Grandle - CAP - 2025
 
-Projeto de Códigos de Alta Performance
+Repositório Códigos de Alta Performance
 
 Este repositório contém implementações desenvolvidas para a disciplina de Engenharia de Software, com foco em códigos de alta performance.
 
