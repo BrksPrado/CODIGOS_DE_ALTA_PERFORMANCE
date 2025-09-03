@@ -1,13 +1,14 @@
 package app;
 
 import lombok.Generated;
+import lombok.Getter;
 
+@Getter
 public class Aluno {
    private long id;
    private String nome;
    private int idade;
    private String endereco;
-   private String curso;
    private String telefone;
    private String dataNascimento;
 
@@ -52,16 +53,6 @@ public class Aluno {
    @Generated
    public void setEndereco(String endereco) {
       this.endereco = endereco;
-   }
-
-   @Generated
-   public String getCurso() {
-      return curso;
-   }
-
-   @Generated
-   public void setCurso(String curso) {
-      this.curso = curso;
    }
 
    @Generated
